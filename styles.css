@@ -1,0 +1,32 @@
+.semester-list {
+    list-style-type: none;
+    color: #777; 
+}
+
+.semester {
+    background-color: aquamarine;
+    border-width: 4px;
+    border-style: solid;
+    border-color: #222;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.semester-name {
+    font-family: sans-serif;
+    font-weight: normal;
+    margin: 0;
+    margin-bottom: 30px;
+    border-bottom-width: 4px;
+    border-bottom-style: dotted;
+    border-bottom-color: firebrick;
+
+}
+
+.courses {
+    background-color: blueviolet;
+}
+
+html {
+    background-color: hotpink;
+}
